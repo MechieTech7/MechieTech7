@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lokesh Chandramurthy.
 - 👀 I’m interested in learning n chilling...
 - 🌱 I’m currently learning Automation.
-- 📫 drop queries at lokeshcmu@gmail.com
+- 📫 drop queries at lokeshchandramurthy@gmail.com
 
 <!---
 MechieTech7/MechieTech7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
