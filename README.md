@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lokesh Chandramurthy.
 - 👀 I’m interested in learning n chilling...
-- 🌱 I’m currently learning Automation.
+- 🌱 I’m currently working as Automation Engineer.
 - 📫 drop queries at lokeshchandramurthy@gmail.com
 
 <!---
